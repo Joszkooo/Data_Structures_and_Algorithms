@@ -1,0 +1,17 @@
+D:\CODE\Sortowania\bin\Debug\net6.0-windows\Sortowania.exe
+D:\CODE\Sortowania\bin\Debug\net6.0-windows\Sortowania.deps.json
+D:\CODE\Sortowania\bin\Debug\net6.0-windows\Sortowania.runtimeconfig.json
+D:\CODE\Sortowania\bin\Debug\net6.0-windows\Sortowania.dll
+D:\CODE\Sortowania\bin\Debug\net6.0-windows\Sortowania.pdb
+D:\CODE\Sortowania\obj\Debug\net6.0-windows\Sortowania.Form1.resources
+D:\CODE\Sortowania\obj\Debug\net6.0-windows\Sortowania.csproj.GenerateResource.cache
+D:\CODE\Sortowania\obj\Debug\net6.0-windows\Sortowania.GeneratedMSBuildEditorConfig.editorconfig
+D:\CODE\Sortowania\obj\Debug\net6.0-windows\Sortowania.AssemblyInfoInputs.cache
+D:\CODE\Sortowania\obj\Debug\net6.0-windows\Sortowania.AssemblyInfo.cs
+D:\CODE\Sortowania\obj\Debug\net6.0-windows\Sortowania.csproj.CoreCompileInputs.cache
+D:\CODE\Sortowania\obj\Debug\net6.0-windows\Sortowania.dll
+D:\CODE\Sortowania\obj\Debug\net6.0-windows\refint\Sortowania.dll
+D:\CODE\Sortowania\obj\Debug\net6.0-windows\Sortowania.pdb
+D:\CODE\Sortowania\obj\Debug\net6.0-windows\Sortowania.genruntimeconfig.cache
+D:\CODE\Sortowania\obj\Debug\net6.0-windows\ref\Sortowania.dll
+D:\CODE\Sortowania\obj\Debug\net6.0-windows\Sortowania.Properties.Resources.resources

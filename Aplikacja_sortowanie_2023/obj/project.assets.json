@@ -8,24 +8,19 @@
     "net6.0-windows7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\joszko\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\joszko\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\CODE\\Sortowania\\Sortowania.csproj",
+      "projectUniqueName": "C:\\Users\\joszko\\Documents\\GitHub\\Data_Structures_and_Algorithms\\Aplikacja_sortowanie_2023\\Sortowania.csproj",
       "projectName": "Sortowania",
-      "projectPath": "D:\\CODE\\Sortowania\\Sortowania.csproj",
+      "projectPath": "C:\\Users\\joszko\\Documents\\GitHub\\Data_Structures_and_Algorithms\\Aplikacja_sortowanie_2023\\Sortowania.csproj",
       "packagesPath": "C:\\Users\\joszko\\.nuget\\packages\\",
-      "outputPath": "D:\\CODE\\Sortowania\\obj\\",
+      "outputPath": "C:\\Users\\joszko\\Documents\\GitHub\\Data_Structures_and_Algorithms\\Aplikacja_sortowanie_2023\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
         "C:\\Users\\joszko\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

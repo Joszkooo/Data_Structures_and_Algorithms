@@ -22,9 +22,17 @@ namespace Sortowania
 
         public int[] tab()
         {
-            string[] temp = txt_box1_liczby.Text.Split(new char[] { });
-            int[] myint = Array.ConvertAll(temp, int.Parse);
-            return myint;
+            try
+            {
+                string[] temp = txt_box1_liczby.Text.Split(new char[] { });
+                int[] myint = Array.ConvertAll(temp, int.Parse);
+                return myint;
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show(ex.ToString());
+                return null;
+            }
         }
 
         private void Form1_Load(object sender, EventArgs e)

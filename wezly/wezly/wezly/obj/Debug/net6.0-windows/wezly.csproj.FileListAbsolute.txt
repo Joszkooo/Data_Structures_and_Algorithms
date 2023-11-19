@@ -1,0 +1,16 @@
+C:\Users\joszko\Documents\Code\wezly\wezly\wezly\bin\Debug\net6.0-windows\wezly.exe
+C:\Users\joszko\Documents\Code\wezly\wezly\wezly\bin\Debug\net6.0-windows\wezly.deps.json
+C:\Users\joszko\Documents\Code\wezly\wezly\wezly\bin\Debug\net6.0-windows\wezly.runtimeconfig.json
+C:\Users\joszko\Documents\Code\wezly\wezly\wezly\bin\Debug\net6.0-windows\wezly.dll
+C:\Users\joszko\Documents\Code\wezly\wezly\wezly\bin\Debug\net6.0-windows\wezly.pdb
+C:\Users\joszko\Documents\Code\wezly\wezly\wezly\obj\Debug\net6.0-windows\wezly.Form1.resources
+C:\Users\joszko\Documents\Code\wezly\wezly\wezly\obj\Debug\net6.0-windows\wezly.csproj.GenerateResource.cache
+C:\Users\joszko\Documents\Code\wezly\wezly\wezly\obj\Debug\net6.0-windows\wezly.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joszko\Documents\Code\wezly\wezly\wezly\obj\Debug\net6.0-windows\wezly.AssemblyInfoInputs.cache
+C:\Users\joszko\Documents\Code\wezly\wezly\wezly\obj\Debug\net6.0-windows\wezly.AssemblyInfo.cs
+C:\Users\joszko\Documents\Code\wezly\wezly\wezly\obj\Debug\net6.0-windows\wezly.csproj.CoreCompileInputs.cache
+C:\Users\joszko\Documents\Code\wezly\wezly\wezly\obj\Debug\net6.0-windows\wezly.dll
+C:\Users\joszko\Documents\Code\wezly\wezly\wezly\obj\Debug\net6.0-windows\refint\wezly.dll
+C:\Users\joszko\Documents\Code\wezly\wezly\wezly\obj\Debug\net6.0-windows\wezly.pdb
+C:\Users\joszko\Documents\Code\wezly\wezly\wezly\obj\Debug\net6.0-windows\wezly.genruntimeconfig.cache
+C:\Users\joszko\Documents\Code\wezly\wezly\wezly\obj\Debug\net6.0-windows\ref\wezly.dll

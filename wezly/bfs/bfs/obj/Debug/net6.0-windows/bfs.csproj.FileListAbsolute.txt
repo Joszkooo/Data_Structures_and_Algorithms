@@ -1,0 +1,16 @@
+C:\Users\joszko\Documents\Code\wezly\bfs\bfs\obj\Debug\net6.0-windows\bfs.Form1.resources
+C:\Users\joszko\Documents\Code\wezly\bfs\bfs\obj\Debug\net6.0-windows\bfs.csproj.GenerateResource.cache
+C:\Users\joszko\Documents\Code\wezly\bfs\bfs\obj\Debug\net6.0-windows\bfs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joszko\Documents\Code\wezly\bfs\bfs\obj\Debug\net6.0-windows\bfs.AssemblyInfoInputs.cache
+C:\Users\joszko\Documents\Code\wezly\bfs\bfs\obj\Debug\net6.0-windows\bfs.AssemblyInfo.cs
+C:\Users\joszko\Documents\Code\wezly\bfs\bfs\obj\Debug\net6.0-windows\bfs.csproj.CoreCompileInputs.cache
+C:\Users\joszko\Documents\Code\wezly\bfs\bfs\bin\Debug\net6.0-windows\bfs.exe
+C:\Users\joszko\Documents\Code\wezly\bfs\bfs\bin\Debug\net6.0-windows\bfs.deps.json
+C:\Users\joszko\Documents\Code\wezly\bfs\bfs\bin\Debug\net6.0-windows\bfs.runtimeconfig.json
+C:\Users\joszko\Documents\Code\wezly\bfs\bfs\bin\Debug\net6.0-windows\bfs.dll
+C:\Users\joszko\Documents\Code\wezly\bfs\bfs\bin\Debug\net6.0-windows\bfs.pdb
+C:\Users\joszko\Documents\Code\wezly\bfs\bfs\obj\Debug\net6.0-windows\bfs.dll
+C:\Users\joszko\Documents\Code\wezly\bfs\bfs\obj\Debug\net6.0-windows\refint\bfs.dll
+C:\Users\joszko\Documents\Code\wezly\bfs\bfs\obj\Debug\net6.0-windows\bfs.pdb
+C:\Users\joszko\Documents\Code\wezly\bfs\bfs\obj\Debug\net6.0-windows\bfs.genruntimeconfig.cache
+C:\Users\joszko\Documents\Code\wezly\bfs\bfs\obj\Debug\net6.0-windows\ref\bfs.dll

@@ -123,11 +123,11 @@ int main() {
             Node* curr = OPEN.top();
             OPEN.pop();
 
-            // checking if node is in closed, if yes -> continue
+            // checking if node is in closed, if yes -> take another node
             if(list_checker(CLOSED, curr->x, curr->y))
                 continue;
 
-            // if not in closed -> put it into OPEN
+            // if not in closed -> put it there
             CLOSED.push_back(curr);
 
             // ending node found - setting the path by going to parent and ending loop
